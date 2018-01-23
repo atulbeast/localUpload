@@ -1,0 +1,273 @@
+﻿<style>
+    /* Style The Dropdown Button */
+    .dropbtn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 6px;
+        font-size: 12px;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* The container <div> - needed to position the dropdown content */
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        margin:5px;
+    }
+
+    /* Dropdown Content (Hidden by Default) */
+   
+        /* Links inside the dropdown */
+        select{
+            color: black;
+            padding: 3px 10px;
+            text-decoration: none;
+         
+        }
+
+   
+
+            /* Change color of dropdown links on hover */
+            .dropdown-content a:hover {
+                background-color: #f1f1f1;
+            }
+         
+
+    /* Show the dropdown menu on hover */
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    /* Change the background color of the dropdown button when the dropdown content is shown */
+    .dropdown:hover .dropbtn {
+        background-color: #3e8e41;
+    }
+
+    /*for search*/
+    input[type=search] {
+	-webkit-appearance: textfield;
+	-webkit-box-sizing: content-box;
+	font-family: inherit;
+	font-size: 100%;
+}
+    input {
+	outline: none;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+	display: none; 
+}
+
+    input[type=search] {
+	background: #ededed url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+	border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+	width: 55px;
+	
+	-webkit-border-radius: 10em;
+	-moz-border-radius: 10em;
+	border-radius: 10em;
+	
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	transition: all .5s;
+}
+input[type=search]:focus {
+	width: 130px;
+	background-color: #fff;
+	border-color: #66CC75;
+	
+	-webkit-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	-moz-box-shadow: 0 0 5px rgba(109,207,246,.5);
+	box-shadow: 0 0 5px rgba(109,207,246,.5);
+}
+
+
+input:-moz-placeholder {
+	color: #999;
+}
+input::-webkit-input-placeholder {
+	color: #999;
+}
+
+#demo-2 input[type=search] {
+	width: 15px;
+	padding-left: 10px;
+	color: transparent;
+	cursor: pointer;
+}
+#demo-2 input[type=search]:hover {
+	background-color: #fff;
+}
+#demo-2 input[type=search]:focus {
+	width: 130px;
+	padding-left: 32px;
+	color: #008CBA;
+	background-color:  #DDE4E9;
+	cursor: auto;
+    font-size:medium;   
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+#demo-2 input:-moz-placeholder {
+	color: transparent;
+}
+#demo-2 input::-webkit-input-placeholder {
+	
+}
+
+    #content {
+  background: #000000;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #FF070B, #E5008D, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #FF070B, #E5008D, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+       
+     width:auto;
+                font: 0.7em "bitstream vera sans", verdana, sans-serif;
+                text-align: justify;
+             
+                padding: 10px;
+               
+    
+    }
+    form{ display:inline;}
+    label{  font:italic small-caps bold 25px georgia;
+            /*font-size:2em;*/
+    }
+    .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+</style>
+
+
+   
+
+
+   <screenshot is-open="Screen.isAdvanceOpen" api="Screen.advanceApi">
+    <screenshot-toolbox>
+        <div class="btn-group-sm">
+            <button class="btn btn-default btn-fab" ng-click="cancel()">
+                <i class="material-icons">close</i>
+            </button>
+            <button class="btn btn-success btn-fab" ng-click="download()">
+                <i class="material-icons">download</i>
+            </button>
+        </div>
+    </screenshot-toolbox>
+    <div class="panel-body">
+
+
+        <div id="content">
+            <toaster-container></toaster-container>
+            <div>
+                <label> Search Record</label>
+
+                <!--<input ng-model="searchField.studentID" id="search" class="form-control " placeholder="Filter text">-->
+                <form>
+
+                    <input type="search" placeholder="Search ID" ng-model="searchField.studentID">
+
+                </form>
+
+                <form id="demo-2">
+
+                    <input type="search" placeholder="Search Name" ng-model="searchField.studentFName">
+
+                </form>
+
+
+                <button class="btn btn-sm button2" ng-click="Searchbtn()"><span class="glyphicon glyphicon-search"></span> Search</button>
+                <a class="btn btn-primary " ng-href='#/create/'> Create </a>
+                <button ng-click="openscreenshot()"  class="btn btn-info btn-lg"><i class="glyphicon glyphicon-film"></i>Capture</button>
+
+                <div class="dropdown" style="float:right">
+
+                    <div class="dropbtn"><span class="glyphicon glyphicon-th-large"></span> Page Size <select data-ng-options="o for o in  Sizelist" ng-change="changeSize()" data-ng-model="GridCurrentPageSetting.selectedPageSize"></select></div>
+
+
+
+
+                </div>
+            </div>
+
+
+        </div>
+
+        <table class="table table-striped">
+            <tr>
+                <!--<th>ID</th>-->
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th> Address </th>
+                <th>Country</th>
+                <th>State</th>
+                <th>City</th>
+                <th>Contact No</th>
+                <th>Email</th>
+                <th>DOB</th>
+                <th>Gender</th>
+                <th>Qualification</th>
+                <th> Action </th>
+            </tr>
+            <tr ng-repeat="stu in Student | filter:FirstName">
+                <!--<td>{{stu.Id}}</td>-->
+                <td>{{stu.FirstName}}</td>
+                <td>{{stu.LastName}}</td>
+                <td>{{stu.Address}}</td>
+                <td>{{stu.Country}}</td>
+                <td>{{stu.SName}}</td>
+                <td>{{stu.CityName}}  </td>
+                <td>{{stu.PhnNo}}</td>
+                <td>{{stu.DOB}}</td>
+                <td>{{stu.Email}}</td>
+                <td>
+                    <span ng-if="stu.Gender==1">Male</span>
+                    <span ng-if="stu.Gender==2">Female</span>
+                </td>
+                <td>
+                    <span ng-if="stu.Btech==1">BTech</span>
+                    <span ng-if="stu.Bsc==1">Bsc</span>
+                    <span ng-if="stu.Bca==1">B.C.A</span>
+                    <span ng-if="stu.Ba==1">B.A</span>
+                </td>
+                <td>
+                    <a class="btn btn-primary" ng-href="#/edit/" ng-click="UpdateStudent(stu)">Edit</a>
+                    <a class="btn btn-primary" ng-href="#" ng-click="deleteStudent(stu.Id)">Delete</a>
+                </td>
+
+            </tr>
+        </table>
+
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="pagination-right">
+                    <div>
+                        <div class="arrow-pgination">
+                            <ul uib-pagination total-items="GridCurrentPageSetting.totalRecords" ng-model="GridCurrentPageSetting.currentPage"
+                                class="pagination-sm " boundary-links="true" items-per-page="GridCurrentPageSetting.selectedPageSize"
+                                ng-change="PageChanged(GridCurrentPageSetting.currentPage)" rotate="false"></ul>
+
+                        </div>
+
+
+                        <!--<div class="select-page">
+                            <ul class="pagination">
+                                <li ng-repeat="i in GridCurrentPageSetting.pageSizes"><a href="javascript:void(0)" data-ng-click="PageSizeChanged(i);">{{i}}</a></li>
+                            </ul>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</screenshot>
+
+

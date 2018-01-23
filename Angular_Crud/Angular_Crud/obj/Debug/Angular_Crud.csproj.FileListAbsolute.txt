@@ -1,0 +1,530 @@
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FParsec.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FParsec.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+c:\users\kirti.khantwal\documents\visual studio 2015\Projects\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FParsec.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.Web.Infrastructure.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FParsec.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field2.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field3.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field4.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations._new.resources
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FParsec.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FParsec.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field2.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field3.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field4.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations._new.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FParsec.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.Web.Infrastructure.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FParsec.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field2.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field3.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field4.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations._new.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.up.resources
+D:\Day User\atul bisht\Personnel\acc\PART-2\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.changes.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.up.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.changes.resources
+C:\Users\kirti.khantwal\Desktop\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.convertfield.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FParsec.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FParsec.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field2.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field3.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field4.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations._new.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.up.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.changes.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.convertfield.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.imgfield.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\bin\RequestStrap.dll
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field1.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.countryf.resources
+D:\kirti khantwal\Kirti\Official\Angular\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.ntable.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csprojResolveAssemblyReference.cache
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.first.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.delete1.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field2.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field3.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field4.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations._new.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.up.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.changes.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.convertfield.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.imgfield.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.field1.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.countryf.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.Migrations.ntable.resources
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.csproj.GenerateResource.Cache
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\obj\Debug\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\ApplicationInsights.config
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\csc.exe
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\System.Collections.Immutable.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\System.Reflection.Metadata.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\vbc.exe
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\roslyn\VBCSCompiler.exe.config
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll.config
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Angular_Crud.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Angular_Crud.pdb
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\EntityFramework.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FParsec.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FParsecCS.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FSharp.Core.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.Web.Infrastructure.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\optano.modeling.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\RequestStrap.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Http.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\WebGrease.dll
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Antlr3.Runtime.pdb
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\EntityFramework.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\EntityFramework.SqlServer.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FParsec.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FParsecCS.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\FSharp.Core.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Numerics.FSharp.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\MathNet.Symbolics.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.DependencyCollector.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.Web.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.AI.WindowsServer.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.ApplicationInsights.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\Newtonsoft.Json.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\optano.modeling.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Net.Http.Formatting.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Http.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Http.WebHost.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Optimization.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Deployment.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Webpages.Razor.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Helpers.xml
+D:\Day User\atul bisht\Personnel\acc\upload\Angular_Crud\Angular_Crud\bin\System.Web.Mvc.xml

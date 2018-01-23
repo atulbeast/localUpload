@@ -1,0 +1,1 @@
+Optimization.Framework is deprecated. Please use OPTANO.Modeling (https://www.nuget.org/packages/OPTANO.modeling) instead.

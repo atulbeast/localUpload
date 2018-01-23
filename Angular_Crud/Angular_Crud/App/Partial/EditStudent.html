@@ -1,0 +1,96 @@
+﻿   <div class="container row">
+       <toaster-container></toaster-container>
+    <div class="col-lg-9 form-horizontal">
+        <div class="form-group">
+            <input type="hidden" ng-model="Student.Id" />
+        </div>
+
+        <div class="form-group">
+          
+            <lable class="col-lg-6 control-label"><b> First Name</b> </lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-user"></span></span>
+            <input type="text" class="form-control col-lg-6 "  ng-model="editStudent.FirstName" >
+        </div>
+        
+
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"> <b>Last Name </b> </lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-user"></span></span>
+            <input type="text" class="form-control col-lg-9 " ng-model="editStudent.LastName"/>
+        </div>
+       
+
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"> <b>Address </b> </lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+            <input type="text" class="form-control col-lg-9 "  ng-model="editStudent.Address"><br />
+        </div>
+       
+      
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"><b>State </b></lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+            <select class="form-control" data-ng-options="State.SName for State in States" data-ng-model="selectedState" ng-change="getCity()">
+                <option value="">--Select State--</option>
+            </select>
+        </div>
+       
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"><b>City </b></lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+            <select class="form-control" data-ng-options="City.Id as City.Name for City in Citys" data-ng-model="selectedCity">
+                <option value="">--Select City--</option>
+            </select>
+        </div>
+
+       
+
+        
+
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"> <b>Contact No</b> </lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-phone"></span></span>
+            <input type="text" class="form-control col-lg-9 " ng-model="editStudent.PhnNo" ><br />
+        </div>
+       
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"> <b>Email</b> </lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-envelope"></span></span>
+            <input type="email" class="form-control col-lg-9 " ng-model="editStudent.Email"><br />
+        </div>
+       
+
+        <div class="form-group">
+            <lable class="col-lg-6 control-label"><b>DOB</b></lable>
+            <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-calendar"></span></span>
+            <input type="text" class="form-control col-lg-9  datepicker"  ng-model="editStudent.DOB" placeholder="DD/MM/YYYY" ><br />
+       </div>
+      
+
+        <div class="form-group col-lg-12">
+            <lable class="col-lg-6 control-label"><b>Gender</b></lable>
+            <input type="radio" name="gender" ng-model="editStudent.Gender" ng-value="1" > Male
+            <input type="radio" name="gender" ng-model="editStudent.Gender" ng-value="2" > Female
+       </div>
+         
+        <div class="form-group col-lg-12">
+            <lable class="col-lg-6 control-label"><b>Qulaification</b></lable>
+            <input type="checkbox" name="Btech" ng-model="editStudent.Btech" ng-true-value="1" ng-false-value="0" ng-checked="editStudent.Btech==1"> B.Tech
+            <input type="checkbox" name="Bsc" ng-model="editStudent.Bsc" ng-true-value="1" ng-false-value="0" ng-checked="editStudent.Bsc==1"> BSc
+            <input type="checkbox" name="Bca" ng-model="editStudent.Bca" ng-true-value="1" ng-false-value="0" ng-checked="editStudent.Bca==1"> B.C.A
+            <input type="checkbox" name="Ba" ng-model="editStudent.Ba" ng-true-value="1" ng-false-value="0" ng-checked="editStudent.Ba==1"> B.A
+        </div>
+
+
+       
+            <div class="col-lg-12">
+                <input class="btn btn-primary" style="margin-left: 457px" type="button" name="btnSave" value="Save" ng-click="updatedata(editStudent)" />
+                <input class="btn btn-primary" type="reset" name="btnSave" value="reset" ng-click="resetForm()" />
+            </div>
+      
+    </div>
+
+
+
+
+</div>

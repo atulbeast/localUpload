@@ -1,0 +1,176 @@
+﻿<div class="container row" >
+    <form name="CreateForm">
+        <toaster-container></toaster-container>
+        <div class="col-lg-9 form-horizontal">
+            <div class="form-group">
+                <input type="hidden" ng-model="Student.Id" />
+
+            </div>
+            <div>
+                <div ngf-drop ngf-select ng-model="files" class="drop-box" name="files"
+                     ngf-drag-over-class="'dragover'" ngf-multiple="false" ngf-allow-dir="true"
+                     accept="image/*"
+                     ngf-pattern="'image/*'">Drop image here or click to upload <img id="im" name="files" ngf-src="files" ></div>
+                <span style="color:red ;" ng-show="CreateForm.files.$invalid && CreateForm.files.$touched">Image is required!</span>
+            </div>
+
+            <!--<input style="width: 0px;height: 0px;overflow: hidden;" id="file" type="file" ngf-select ng-model="picFile" name="file"
+                   accept="image/*" required
+                   ngf-model-invalid="errorFile">-->
+            <div class="form-group">
+
+                <lable class="col-lg-6 control-label"><b> First Name</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-user"></span></span>
+                <input type="text" class="form-control col-lg-5 " id="Name" name="firstname" ng-model="Student.FirstName" placeholder="Enter First Name" required>
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red;" ng-show="CreateForm.firstname.$invalid && CreateForm.Address.$touched">First Name is required!</span>
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"> <b>Last Name </b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-user"></span></span>
+                <input type="text" class="form-control col-lg-9 " id="Name" name="lasttname" ng-model="Student.LastName" placeholder="Enter Last Name" ng-pattern="/^[a-zA-Z\s]*$/" required />
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show="CreateForm.lasttname.$invalid && CreateForm.Address.$touched">Last Name is required!</span>
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>Address </b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+                <input type="text" class="form-control col-lg-9 " name="Address" ng-model="Student.Address" placeholder="Enter Address" required><br />
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show="CreateForm.Address.$touched && CreateForm.Address.$invalid">Address is required!</span>
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>Country</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+                <input type="text" class="form-control col-lg-9 " name="Address" ng-model="Student.Country" required><br />
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>State </b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+                <select class="form-control" data-ng-options="State.ID as State.SName for State in States" data-ng-model="Student.State" ng-change="getCity()">
+                    <option value="">--Select State--</option>
+                </select>
+            </div>
+
+
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>City</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-home"></span></span>
+                <!--<input type="text" class="form-control col-lg-9 " name="City" ng-model="Student.City" placeholder="Enter City" ng-pattern="/^[a-zA-Z\s]*$/" required><br />-->
+                <select class="form-control" data-ng-options="City.Id as City.Name for City in CityList" data-ng-model="Student.City">
+                    <option value="">--Select City--</option>
+                </select>
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show=" CreateForm.City.$pristine && CreateForm.City.$touched && CreateForm.City.$invalid">City is required!</span>
+                <!--<span style="color:red ;" ng-show="CreateForm.City.$error.pattern">
+                    Please Enter Charcater only!
+                </span>-->
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>Contact No</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-phone"></span></span>
+                <input type="text" class="form-control col-lg-9 " id="Contact" name="Contact" ng-model="Student.PhnNo" ng-pattern="/^[0-9]{10,10}$/" placeholder="(000) 000-0000" required><br />
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show="CreateForm.Contact.$pristine && CreateForm.Contact.$touched && CreateForm.Contact.$invalid">Phone Number is required!</span>
+                <span style="color:red ;" ng-show="CreateForm.Contact.$error.pattern">
+                    Not Valid Number!
+                </span>
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>Email</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-envelope"></span></span>
+                <input type="email" class="form-control col-lg-9 " name="Email" ng-model="Student.Email" ng-pattern="/^[a-z]+[a-z0-9._]+@[a-z]+\.[a-z.]{2,5}$/" placeholder="abc@xyz.com" required><br />
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show="CreateForm.Email.$pristine && CreateForm.Email.$invalid && CreateForm.Email.$touched">Email is required!</span>
+                <span style="color:red ;" ng-show="CreateForm.Email.$error.pattern">
+                    Please Enter Valid Email!
+                </span>
+            </div>
+
+            <div class="form-group">
+                <lable class="col-lg-6 control-label"><b>DOB</b></lable>
+                <span class="form-control input-group-addon col-lg-1" style="width: 5%;border-radius: 7px;"><span class="glyphicon glyphicon-calendar"></span></span>
+                <input type="text" class="form-control col-lg-9  datepicker" name="Dob" ng-model="Student.DOB" placeholder="DD/MM/YYYY" required><br />
+            </div>
+            <div class="col-lg-9" style="text-align:right">
+                <span style="color:red ;" ng-show="CreateForm.Dob.$touched && CreateForm.Dob.$invalid">DOB is required!</span>
+            </div>
+
+            <div class="form-group col-lg-12">
+                <lable class="col-lg-6 control-label"><b>Gender</b></lable>
+                <input type="radio" name="gender" ng-model="Student.Gender" ng-value="1" required> Male
+                <input type="radio" name="gender" ng-model="Student.Gender" ng-value="2" required> Female
+                <span style="color:red ;" ng-show="CreateForm.gender.$pristine && CreateForm.gender.$invalid">Please Select Gender!</span>
+            </div>
+
+            <div class="form-group col-lg-12">
+                <lable class="col-lg-6 control-label"><b>Qulaification</b></lable>
+                <input type="checkbox" name="Btech" ng-model="Student.Btech"> B.Tech
+                <input type="checkbox" name="Bsc" ng-model="Student.Bsc"> BSc
+                <input type="checkbox" name="Bca" ng-model="Student.Bca"> B.C.A
+                <input type="checkbox" name="Ba" ng-model="Student.Ba"> B.A
+            </div>
+
+        </div>
+
+        <div class="col-lg-12">
+            <input class="btn btn-primary" style="margin-left: 457px" type="button" name="btnSave" value="Save" ng-click="savedata(Student)" ng-disabled=" CreateForm.firstname.$touched && CreateForm.firstname.$invalid ||CreateForm.lasttname.$touched && CreateForm.lasttname.$invalid ||CreateForm.Address.$touched && CreateForm.Address.$invalid ||CreateForm.gender.$pristine &&CreateForm.gender.$invalid || CreateForm.Dob.$touched && CreateForm.Dob.$invalid || CreateForm.Email.$pristine && CreateForm.Email.$invalid && CreateForm.Email.$touched " />
+            <input class="btn btn-primary" type="button" value="Reset" ng-click="resetForm();" />
+        </div>
+
+
+    </form>
+    
+</div>
+
+
+<script>
+        //DatePicker Script
+
+    $(document).ready(function () {
+       
+        $('.datepicker').datepicker({
+            format: "dd/mm/yyyy",
+            autoclose: true
+        });
+    });
+
+    // For Enter numbers only
+
+    $("#Contact").keydown(function (event) {
+       
+        if (event.keyCode >= 48 && event.keyCode <= 57 || event.keyCode == 8 || event.keyCode == 9) {
+
+        }
+        else {
+            event.preventDefault();
+        }
+    });
+
+    // For Enter Charchter only
+
+    $("#Name").keydown(function (event) {
+      
+        if (event.keyCode >= 65 && event.keyCode <= 90 || event.keyCode == 8 || event.keyCode == 9) {
+
+        }
+        else {
+            event.preventDefault();
+        }
+    });
+   
+  
+</script>
