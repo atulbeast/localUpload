@@ -164,20 +164,7 @@ namespace Angular_Crud.Controllers
 
         public int DeleteStudent(int Id)
         {
-           //Student stuobj = new Student();
-           // try
-           // {
-           //     stuobj = db.Students.Find(Id);
-           //     stuobj.IsActive = false;
-           //     db.SaveChanges();
-           //     return 1;
-           // }
-           // catch (Exception ex)
-           // {
-           //     return 0;
-           // }
-
-            if (db.Database.Connection.State == ConnectionState.Open)
+           if (db.Database.Connection.State == ConnectionState.Open)
             {
                 db.Database.Connection.Close();
             }
